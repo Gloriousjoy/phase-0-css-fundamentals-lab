@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#featured-property {
+  box-align: center;
+  p{
+    width: 800px;
+    text-align: center;
+    vertical-space::before;
+  }
+}
+nav{
+  a{ 
+  padding: 10px;
+  background-color: grey;
+}
+}
+figcaption{
+font-size: smaller;
+text-align: center;
+}
